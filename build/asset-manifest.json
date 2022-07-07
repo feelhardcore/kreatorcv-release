@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kreatorcv/static/css/main.94be22ae.css",
+    "main.js": "/kreatorcv/static/js/main.a384e4c6.js",
+    "static/js/498.f1c37889.chunk.js": "/kreatorcv/static/js/498.f1c37889.chunk.js",
+    "static/js/703.2363e49f.chunk.js": "/kreatorcv/static/js/703.2363e49f.chunk.js",
+    "static/js/625.e56c8884.chunk.js": "/kreatorcv/static/js/625.e56c8884.chunk.js",
+    "static/js/787.630a581d.chunk.js": "/kreatorcv/static/js/787.630a581d.chunk.js",
+    "static/media/type1.png": "/kreatorcv/static/media/type1.49545f54b0e156c350bc.png",
+    "static/media/type2.png": "/kreatorcv/static/media/type2.1bff27ad02ca1f26a0f2.png",
+    "static/media/logo-ansl-napis.svg": "/kreatorcv/static/media/logo-ansl-napis.cbe652e1da0d9677cc47103d0da6dad1.svg",
+    "index.html": "/kreatorcv/index.html",
+    "main.94be22ae.css.map": "/kreatorcv/static/css/main.94be22ae.css.map",
+    "main.a384e4c6.js.map": "/kreatorcv/static/js/main.a384e4c6.js.map",
+    "498.f1c37889.chunk.js.map": "/kreatorcv/static/js/498.f1c37889.chunk.js.map",
+    "703.2363e49f.chunk.js.map": "/kreatorcv/static/js/703.2363e49f.chunk.js.map",
+    "625.e56c8884.chunk.js.map": "/kreatorcv/static/js/625.e56c8884.chunk.js.map",
+    "787.630a581d.chunk.js.map": "/kreatorcv/static/js/787.630a581d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94be22ae.css",
+    "static/js/main.a384e4c6.js"
+  ]
+}
